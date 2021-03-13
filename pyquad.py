@@ -12,5 +12,6 @@ ans1 = (-b + root_part)/(2*a)
 
 ans2 = (-b - root_part)/(2*a)
 print("Calculating...")
+time.sleep(2)
 
 print("Answer is: ",round(ans1,3),"or: ",round(ans2,3))
